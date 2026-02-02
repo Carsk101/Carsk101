@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Harsh.
 
-<!--
-**Carsk101/Carsk101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to build things. AI tools, voice agents, random projects that seem interesting.
 
-Here are some ideas to get you started:
+## Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Finance and entrepreneurship background. Most of what I know came from being curious and figuring stuff out.
+
+I'm into understanding how things work. Systems, patterns, why things are the way they are. When something bugs me, I build a better version.
+
+## What I Build
+
+Stuff that's useful and interesting. AI agents, behavior analysis, automation, systems-level tools. If it solves a real problem or teaches me something new, I'm probably working on it.
+
+---
+
+When I'm not building, I'm probably reading, listening to music, or going down some rabbit hole.
+
+🌐 [harshswebsite.com](https://harshswebsite.com)
