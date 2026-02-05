@@ -1,4 +1,4 @@
-# Hey, I'm Harsh.
+# yooooooooooooo.   its harsh.
 
 I like to build things. AI tools, voice agents, random projects that seem interesting.
 
