@@ -10,10 +10,10 @@ I'm into understanding how things work. Systems, patterns, why things are the wa
 
 ## What I Build
 
-Stuff that's useful and interesting. AI agents, behavior analysis, automation, systems-level tools. If it solves a real problem or teaches me something new, I'm probably working on it.
+Stuff that's useful and interesting. AI agents, automation, behavior analysis, systems-level tools. If it solves a real problem or teaches me something new, I'm probably working on it.
 
 ---
 
-When I'm not building, I'm probably reading, listening to music, or going down some rabbit hole.
+professional fun-gi
 
 🌐 [harshswebsite.com](https://harshswebsite.com)
